@@ -114,7 +114,7 @@ const projects_detail = [
       "The package provides an intuitive interface for configuring email services, templates, and parameters. Users can initialize the EmailPy client with their EmailJS public key and utilize methods to send emails using predefined templates and dynamic parameters.",
       "This solution is particularly beneficial for applications requiring email functionalities without the overhead of managing a backend infrastructure. It streamlines the process of integrating email services into Python applications, enhancing development efficiency."
     ],
-    image: null,
+    image: '/images/project/others/emailpy.png',
     github: "https://github.com/joelwry/jodev_emailpy",
     liveUrl: null,
     technologies: ["Python", "EmailJS"],
@@ -141,7 +141,7 @@ const projects_detail = [
       "The bot monitors the source wallet for incoming TRX and initiates a transfer to the destination wallet upon detection. It includes a minimalistic frontend interface that allows users to view wallet balances and monitor transaction statuses in real-time.",
       "This project addresses the need for rapid and automated TRX transfers, reducing manual intervention and enhancing operational efficiency in cryptocurrency transactions."
     ],
-    image: null,
+    image: '/images/project/others/tronx_bot.png',
     github: "https://github.com/joelwry/tronx_sender",
     liveUrl: null,
     technologies: ["Python", "TRON-Python", "Django", "HTML", "CSS"],

@@ -16,7 +16,7 @@ export default function ResumePage() {
         </Link>
         <div className="w-full bg-[#1A1A1A] rounded-lg p-4 shadow-lg">
           <iframe
-            src="https://pdflink.to/arnavjain/embed/"
+            src="https://pdflink.to/joelwry/embed/"
             className="w-full h-[800px] md:h-[1000px]"
             style={{ border: "none" }}
             title="Resume Viewer"

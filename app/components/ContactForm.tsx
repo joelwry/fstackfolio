@@ -65,7 +65,7 @@ const ContactForm: React.FC = () => {
     };
 
     return (
-      <>
+      <section id="contact" className="py-20">
        <motion.div
                 className="text-center mb-12"
                 initial={{ opacity: 0, y: 20 }}
@@ -124,7 +124,7 @@ const ContactForm: React.FC = () => {
             <Button type="submit" className="bg-blue-600 hover:bg-blue-700 text-white" style={{width : '60%',marginLeft:"20%", marginTop:"35px"}}>Send Message</Button>
           }
         </form>
-      </>
+      </section>
       )
 };
 

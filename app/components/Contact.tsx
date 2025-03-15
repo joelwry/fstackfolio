@@ -19,7 +19,7 @@ const Contact = () => {
   ]
 
   return (
-    <section id="contact" className="py-20 bg-[#0A0A0A]">
+    <section id="social-contact" className="py-20 bg-[#0A0A0A]">
       <div className="container mx-auto px-6">
         <motion.div
           className="text-center mb-12"
@@ -49,19 +49,7 @@ const Contact = () => {
               <span className="text-white text-lg">{item.text}</span>
             </motion.a>
           ))}
-          <Link href="/resume" className="w-full">
-            <motion.div
-              className="flex items-center justify-center p-4 bg-[#1E1E1E] rounded-lg hover:bg-[#252525] transition-colors duration-300"
-              initial={{ opacity: 0, y: 20 }}
-              animate={inView ? { opacity: 1, y: 0 } : {}}
-              transition={{ duration: 0.5, delay: 0.4 }}
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              <FileText className="w-6 h-6 mr-4 text-blue-400" />
-              <span className="text-white text-lg">View Resume</span>
-            </motion.div>
-          </Link>
+         
         </div>
       </div>
     </section>
