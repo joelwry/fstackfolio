@@ -28,7 +28,7 @@ export const blogContent = [
             "Modern web development is constantly evolving. With Next.js and React, you have a powerful toolkit at your disposal to build cutting-edge applications. By mastering SSR, SSG, and advanced routing, you can create web experiences that are both dynamic and high-performing. Happy coding!"
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1537432376769-00a7451b2192?auto=format&fit=crop&w=2070&q=80",
+            "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/5912616/cover_image/retina_1708x683/1015_Next.js_vs._React-_A_Comparative_Tutorial_Illustration_Brief_Blog-e14319490440a98149fbda4e651f8526.png",
         date: "March 15, 2025",
         readTime: "15 min read",
         tags: ["Next.js", "React", "Web Development", "SSR", "SSG"]
@@ -63,7 +63,7 @@ export const blogContent = [
             "By adhering to security best practices and leveraging advanced testing and analysis tools, you can build Solidity smart contracts that are both powerful and secure. This guide provides a roadmap to ensure your decentralized applications stand up to real-world challenges."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1612332561957-d16d5f160bd4?auto=format&fit=crop&w=2070&q=80",
+            "https://uploads.laborx.com/gig/thumb_cropped_680x340_lYJGqVJhXwzNJi-GFg9DMGPbn4eeTbJR.jpeg",
         date: "March 2, 2025",
         readTime: "18 min read",
         tags: ["Solidity", "Smart Contracts", "Blockchain", "Security"]
@@ -101,7 +101,7 @@ export const blogContent = [
             "Building DApps on Ethereum is both challenging and rewarding. With a clear understanding of blockchain technology, robust development tools, and a focus on user experience, you can develop decentralized applications that push the boundaries of innovation."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=2070&q=80",
+            "https://www.pixelsoftwares.com/assets/uploads/blogs/PixelSoftwares20240619152122190624152122LRIl.png",
         date: "February 28, 2025",
         readTime: "20 min read",
         tags: ["DApps", "Ethereum", "Blockchain", "Web3"]
@@ -129,7 +129,7 @@ export const blogContent = [
             "Developing an AI-powered crypto trading bot is a multidisciplinary challenge that combines data science, machine learning, and real-time system integration. With careful planning, rigorous testing, and robust risk management, you can create a trading system that adapts to market conditions and optimizes trading performance."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1613553483334-08a78e85bb37?auto=format&fit=crop&w=2070&q=80",
+            "https://code-care.com/wp-content/uploads/2021/11/4-Types-of-Cryptocurrency-Trading-Bots-1.png",
         date: "February 10, 2025",
         readTime: "22 min read",
         tags: ["Crypto Trading", "AI", "Machine Learning", "Bots"]
@@ -175,7 +175,7 @@ export const blogContent = [
             "Conclusion: The future of web development promises to be more dynamic and user-centric. Keeping up with these trends will help developers create robust, efficient, and innovative web applications."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1502882707921-5e86d1ac8cd2?auto=format&fit=crop&w=2070&q=80",
+            "https://www.spaceotechnologies.com/wp-content/uploads/2021/11/Top-Web-Development-Trends.jpg",
         date: "March 10, 2025",
         readTime: "8 min read",
         tags: ["Web Development", "Trends", "2025"],
@@ -192,7 +192,7 @@ export const blogContent = [
             "Conclusion: Integrating DevOps into software development processes results in higher quality products, reduced downtime, and better team synergy."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1559028012-481c2a45f1f5?auto=format&fit=crop&w=2070&q=80",
+            "https://www.simform.com/wp-content/uploads/2022/01/what-is-devops-lifecycle.png",
         date: "February 15, 2025",
         readTime: "7 min read",
         tags: ["Software Development", "DevOps", "Agile"],
@@ -209,7 +209,7 @@ export const blogContent = [
             "Conclusion: A well-designed API not only simplifies development but also enhances interoperability across platforms and devices."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1581091012184-7a2be45e6c4d?auto=format&fit=crop&w=2070&q=80",
+            "https://www.cerebruminfotech.com/blog/wp-content/uploads/2023/04/API-Software-Development-Process.png",
         date: "January 20, 2025",
         readTime: "6 min read",
         tags: ["API Development", "REST", "GraphQL"],
@@ -226,7 +226,7 @@ export const blogContent = [
             "Conclusion: As Web3 technologies mature, they promise to transform how we interact online, giving users unprecedented control over their digital identities and data."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1562599932-7c0f2f421b85?auto=format&fit=crop&w=2070&q=80",
+            "https://chainstack.com/wp-content/uploads/2022/12/web3-dapps.png",
         date: "December 5, 2024",
         readTime: "9 min read",
         tags: ["Web3", "Blockchain", "Decentralization"],
@@ -243,7 +243,7 @@ export const blogContent = [
             "Conclusion: As blockchain technology matures, scalable DApps will drive mainstream adoption by offering secure, decentralized, and efficient alternatives to traditional applications."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1581091870627-8a96d7d6e0a1?auto=format&fit=crop&w=2070&q=80",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/289581253/original/1ba19d705354955627fcb7069f764e0701d94db2/develop-solidity-smart-contract-solidity-developer.png",
         date: "November 12, 2024",
         readTime: "10 min read",
         tags: ["Blockchain", "Development", "DApps"],
@@ -260,7 +260,7 @@ export const blogContent = [
             "Conclusion: As smart contracts become more prevalent, they promise to create a new era of trustless and efficient digital transactions."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=2070&q=80",
+            "https://images.squarespace-cdn.com/content/v1/5bdc8c06697a98bb346792b9/1582767574145-ZX0FMHA9F8YB6PU8RXOW/image-asset.jpeg",
         date: "October 8, 2024",
         readTime: "8 min read",
         tags: ["Smart Contracts", "Blockchain", "Automation"],
@@ -277,11 +277,12 @@ export const blogContent = [
             "Conclusion: As AI techniques continue to evolve, they are set to play a crucial role in developing smarter, more adaptive crypto trading strategies."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1581291519195-ef11498d1cf0?auto=format&fit=crop&w=2070&q=80",
+            "https://www.unite.ai/wp-content/uploads/2022/09/ai-crypto-bots.png",
         date: "September 30, 2024",
         readTime: "10 min read",
         tags: ["Crypto Trading", "AI", "Finance"],
     },
+    // javascript es features
     {
         id: "javascript-es2025-features",
         title: "JavaScript in 2025: Exploring New ES2025 Features",
@@ -294,7 +295,7 @@ export const blogContent = [
             "Conclusion: Staying updated with the latest JavaScript features is essential for developers aiming to build modern, efficient web applications."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1526378722143-3a43c737e3de?auto=format&fit=crop&w=2070&q=80",
+            "https://www.inkoop.io/static/84a6024aed371ff1212483ac3af176cf/4acc2/banner.png",
         date: "August 18, 2024",
         readTime: "7 min read",
         tags: ["JavaScript", "Programming", "ES2025"],
@@ -316,6 +317,7 @@ export const blogContent = [
         readTime: "9 min read",
         tags: ["Python", "Data Science", "Machine Learning"],
     },
+    // TYPESCRIPT
     {
         id: "typescript-enhancing-js-development",
         title: "TypeScript: Enhancing JavaScript Development",
@@ -328,11 +330,12 @@ export const blogContent = [
             "Conclusion: Adopting TypeScript can significantly improve the development workflow, especially for complex projects that require scalable and maintainable codebases."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1523473827534-224b1c4c6d8c?auto=format&fit=crop&w=2070&q=80",
+            "https://miro.medium.com/v2/resize:fill:1200:675/g:fp:0.49:0.71/1*4oFpzzAu_bvQHAkfiTovbA.png",
         date: "June 15, 2024",
         readTime: "6 min read",
         tags: ["TypeScript", "JavaScript", "Programming"],
     },
+    // JAVA ENTERPRISE APPLICATION
     {
         id: "modern-java-enterprise-applications",
         title: "Modern Java: Trends in Enterprise Applications",
@@ -345,7 +348,7 @@ export const blogContent = [
             "Conclusion: Java remains a robust choice for enterprise solutions, continuously evolving to meet the challenges of modern software development."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1573164574396-d2b8fd81f3d9?auto=format&fit=crop&w=2070&q=80",
+            "https://www.finoit.com/wp-content/uploads/2022/09/clean-code-java-principles.jpg",
         date: "May 10, 2024",
         readTime: "8 min read",
         tags: ["Java", "Enterprise", "Software Development"],
@@ -362,7 +365,7 @@ export const blogContent = [
             "Conclusion: With the right approach, developers can harness the power of Solidity to build innovative, secure, and scalable decentralized applications."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1573495612937-8d2ad3e99166?auto=format&fit=crop&w=2070&q=80",
+            "https://procoders.tech/wp-content/uploads/2023/02/How_to_Build_Your_Profitable_DApp_Using_Web3_Guide_for_Not_tech_1.png",
         date: "April 18, 2024",
         readTime: "9 min read",
         tags: ["Solidity", "Blockchain", "DApps"],
@@ -413,7 +416,7 @@ export const blogContent = [
             "Conclusion: Combining Next.js and React allows developers to build feature-rich, high-performance web applications that deliver an exceptional user experience."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=2070&q=80",
+            "https://blog.logrocket.com/wp-content/uploads/2020/11/next-js-vs-react-developer-experience.png",
         date: "January 8, 2024",
         readTime: "10 min read",
         tags: ["Next.js", "React", "Full-stack"],
@@ -430,7 +433,7 @@ export const blogContent = [
             "Conclusion: With the powerful duo of Node.js and Express, developers can quickly build and deploy robust APIs that serve as the backbone of modern applications."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1531497865142-7bdcda1f6c4b?auto=format&fit=crop&w=2070&q=80",
+            "https://dz2cdn1.dzone.com/storage/temp/14016093-api-collaboration.png",
         date: "December 20, 2023",
         readTime: "7 min read",
         tags: ["Node.js", "Express", "API Development"],
@@ -447,7 +450,7 @@ export const blogContent = [
             "Conclusion: Django remains one of the top choices for developers looking to create robust web applications in a fraction of the time."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1584697964402-3c1e16d51e2b?auto=format&fit=crop&w=2070&q=80",
+            "https://datascientest.com/en/files/2023/05/django1.jpg",
         date: "November 25, 2023",
         readTime: "8 min read",
         tags: ["Django", "Web Development", "Python"],
@@ -464,7 +467,7 @@ export const blogContent = [
             "Conclusion: With its blend of efficiency and performance, React Native continues to be a top choice for developers in the mobile application space."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1595433707802-9e1d7f0e9370?auto=format&fit=crop&w=2070&q=80",
+            "https://a.storyblok.com/f/122804/1800x676/3c27925895/react-native-development-vs-native-development.png",
         date: "October 15, 2023",
         readTime: "6 min read",
         tags: ["React Native", "Mobile Development", "JavaScript"],
@@ -481,7 +484,7 @@ export const blogContent = [
             "Conclusion: Both MongoDB and MySQL have their merits. The choice ultimately depends on the specific requirements of your application and the desired balance between flexibility and structure."
         ].join("\n\n"),
         coverImage:
-            "https://images.unsplash.com/photo-1603791440384-56cd371ee9c4?auto=format&fit=crop&w=2070&q=80",
+            "https://cdn.prod.website-files.com/65bd01fbefb223c77ff70cf3/65d7875c19f004f795e4fddb_65d615a7a1e6cec15b09daa8_63cac04a3c1b3b5ab7cfbb41_post-vs-35.webp",
         date: "September 10, 2023",
         readTime: "9 min read",
         tags: ["MongoDB", "MySQL", "Database", "Software Development"],

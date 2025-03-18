@@ -49,7 +49,7 @@ const projects_detail = [
       "By combining secure transactions with an efficient, user-friendly interface, Tigerstorewise delivers a balanced solution that meets both end-user and administrative needs."
     ],
     image:'/images/project/tigerwise/2.png',
-    github: "https://github.com/ArnavJ19/Tigerstorewise",
+    github: "https://github.com/joelwry/tiglog",
     liveUrl: "https://www.tigerstorewise.com/",
     technologies: [
       "Express",
@@ -169,7 +169,7 @@ const projects_detail = [
       "By combining instructional content with interactive assessments and challenges, the app provides a comprehensive learning experience for individuals seeking to enhance their JavaScript skills."
     ],
     image: '/images/project/codemaster/4.png',
-    github: "https://github.com/joelwry/js_learning_app",
+    github: "https://github.com/joelwry/master-js-proficiently",
     liveUrl: null,
     technologies: ["Flet", "Python", "JavaScript", "SQLite"],
     features: [
