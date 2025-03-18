@@ -31,48 +31,10 @@ export default function ProjectsAdmin() {
   })
   const [newTech, setNewTech] = useState("")
   const [newFeature, setNewFeature] = useState("")
-  const [newChallenge, set  = useState("")\
-  const [newFeature, setNewFeature] = useState("")
   const [newChallenge, setNewChallenge] = useState("")
   const [editMode, setEditMode] = useState(false)
   const [currentProjectId, setCurrentProjectId] = useState<string | null>(null)
 
-  useEffect(() => {
-    // In a real app, fetch from API
-    setTimeout(() => {
-      setProjects([
-        {
-          id: "1",
-          title: "Portfolio Optimization using Machine Learning",
-          slug: "portfolio-optimization",
-          summary: "Advanced portfolio optimization system using Agglomerative Clustering.",
-          description: "Developed an advanced portfolio optimization system leveraging machine learning techniques.",
-          image:
-            "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          github: "https://github.com/ArnavJ19/PortfolioML",
-          liveUrl: null,
-          technologies: ["Python", "scikit-learn", "Pandas"],
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        },
-        {
-          id: "2",
-          title: "AI Trading Agent",
-          slug: "ai-trading-agent",
-          summary: "Trading agent using Reinforcement Learning.",
-          description: "Developed a trading agent using Reinforcement Learning to adapt to market conditions.",
-          image:
-            "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-          github: "https://github.com/ArnavJ19/RL_Agent_Trading",
-          liveUrl: "https://trading-agent-demo.vercel.app",
-          technologies: ["Python", "TensorFlow", "Gymnasium"],
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        },
-      ])
-      setLoading(false)
-    }, 1000)
-  }, [])
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target
@@ -213,6 +175,7 @@ export default function ProjectsAdmin() {
         challenges: formData.challenges,
         createdAt: new Date(),
         updatedAt: new Date(),
+        otherImages : []
       }
 
       setProjects((prev) => [...prev, newProject])
